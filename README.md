@@ -7,3 +7,14 @@
 + TA : 四乙 曾妍菲
 + Phone Number : 0932396685
 + Mail : style1688@gmail.com
+
+
+
+## Important Dates
+### + Class Tests
++ 2018.10.19
++ 2018.12.04
+### + Mid-Terns
++ 2018.11.06
+### + Final Exam
++ 2019.01.08
