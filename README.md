@@ -11,10 +11,10 @@
 
 
 ## Important Dates
-### + Class Tests
+### Class Tests
 + 2018.10.19
 + 2018.12.04
-### + Mid-Terns
+### Mid-Terns
 + 2018.11.06
-### + Final Exam
+### Final Exam
 + 2019.01.08
